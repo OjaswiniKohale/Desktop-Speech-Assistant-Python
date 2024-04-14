@@ -4,9 +4,9 @@ import pyttsx3
 import speech_recognition as sr
 import wikipedia
 import webbrowser
-import os
+import os #operating system
 import random
-import smtplib
+import smtplib #simple mail transfer protocal
 from plyer import notification
 
 mail_dictionary = {}
